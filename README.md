@@ -1,2 +1,3 @@
-# cv
-my Typst cv
+### My Typst CV
+
+![CV](cv.png)
